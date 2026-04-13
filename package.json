@@ -1,0 +1,31 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "description": "Production-ready CLI Task Manager built with Node.js",
+  "main": "src/index.js",
+  "bin": {
+    "task": "./bin/task.js"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bin/task.js",
+    "dev": "node bin/task.js",
+    "link": "npm link"
+  },
+  "dependencies": {
+    "chalk": "4.1.2",
+    "commander": "^11.1.0",
+    "inquirer": "^8.2.6",
+    "cli-table3": "^0.6.3",
+    "date-fns": "^2.30.0",
+    "nanoid": "^3.3.7",
+    "ora": "^5.4.1",
+    "figlet": "^1.7.0"
+  },
+  "keywords": ["cli", "task", "manager", "productivity"],
+  "author": "InternDrive Technologies Pvt. Ltd.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

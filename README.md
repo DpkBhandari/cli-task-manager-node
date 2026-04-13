@@ -324,6 +324,14 @@ task clear
 
 ---
 
-## 📄 License
+## About Developer 
 
-MIT © InternDrive Technologies Pvt. Ltd.
+#  I'm Deepak C. Bhandari 👋
+
+Full-stack developer who loves building practical, product-focused applications. I enjoy working with Node.js, React, and MongoDB to create clean backends and polished user interfaces.
+
+Always learning, always shipping.
+
+📧 code2deepak@gmail.com <br>
+🐙 [github.com/DpkBhandari](https://github.com/DpkBhandari) <br>
+💼 [linkedin.com/in/bhandari-deepak](https://www.linkedin.com/in/bhandari-deepak)
